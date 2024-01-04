@@ -29,9 +29,9 @@ automatizadas son a nivel front y son ejecutados con regularidad para detectar d
 
 Este plan de pruebas muestra el detalle y organización de las pruebas funcionales de la feature:
 
-> **FEATURE TEST PLAN**: Booking.com | Servicio de Reservas | Flujo E2E para la creación de una reserva de alojamiento
+> **FEATURE TEST PLAN**: Booking.com | Servicio de Reservas | Flujo E2E
 >
->*Como usuario de Booking deseo realizar la reserva de alojamiento en un hotel  
+>*Como usuario de Booking 
 Quiero realizar la reserva de alojamiento en un hotel  
 Para separar la estadia en un el hotel de mi prefencia*
 
@@ -137,7 +137,7 @@ usando Serenity BDD en integración con Appium para automatizar el proceso.
 > ☑️ El plan de pruebas actual, la ruta de su ubicación es: `resources/Deliverables/PLAN_DE_PRUEBAS_BOOKING_APP.markdown`  
 > ☑️ El informe del resultado de pruebas, la ruta de su ubicación es: `target/site/serenity/serenity-summary.html`   
 > ☑️ El repositorio en GitHub con los scripts
-> desarrollados: [booking-mobile-automation-testing](https://github.com/)
+> desarrollados: [TestAndroidBooking](https://github.com/HerbertMG/TestAndroidBooking)
 ***
 
 ### ❗ INFORMACIÓN ADICIONAL

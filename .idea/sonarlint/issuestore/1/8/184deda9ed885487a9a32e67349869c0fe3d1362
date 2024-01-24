@@ -1,0 +1,11 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑòÅüÿÿÿÿ
+x
+java:S1450"]Remove the "possRoomString" field and declare it as a local variable in the relevant methods.(Åñäûÿÿÿÿ
+G
+java:S1172"1Remove this unused method parameter "posRoomInt".(”¤²·
+V	java:S125"<This block of commented-out lines of code should be removed.(¯Î²¦şÿÿÿÿ
+}
+java:S1128"bRemove this unused import 'net.serenitybdd.screenplay.matchers.WebElementStateMatchers.isPresent'.(åúç¿ùÿÿÿÿ
+n
+java:S1128"XRemove this unused import 'net.serenitybdd.screenplay.questions.WebElementQuestion.the'.(Š½÷‹
